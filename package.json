@@ -1,0 +1,21 @@
+{
+  "name": "rosas",
+  "version": "1.0.0",
+  "description": "estudo_parallax",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FernandoRodriguesDaSilva/Parallax_rosas.git"
+  },
+  "author": "Ferex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FernandoRodriguesDaSilva/Parallax_rosas/issues"
+  },
+  "homepage": "https://github.com/FernandoRodriguesDaSilva/Parallax_rosas#readme"
+}
